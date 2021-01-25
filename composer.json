@@ -1,5 +1,5 @@
 {
-    "name": "mykola-ivashchuk-gl/PhpSpreadsheet",
+    "name": "mykola-ivashchuk-gl/phpspreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine PHP 5.5.9",
     "keywords": ["PHP", "OpenXML", "Excel", "xlsx", "xls", "ods", "gnumeric", "spreadsheet"],
     "homepage": "https://github.com/PHPOffice/PhpSpreadsheet",
