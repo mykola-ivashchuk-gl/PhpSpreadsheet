@@ -90,8 +90,9 @@ class Logger
     /**
      * Write an entry to the calculation engine debug log.
      */
-    public function writeDebugLog(...$args)
+    public function writeDebugLog()
     {
+        $args = func_get_args();
         //    Only write the debug log if logging is enabled
         if ($this->writeDebugLog) {
             $message = implode($args);
