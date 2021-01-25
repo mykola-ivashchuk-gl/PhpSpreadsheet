@@ -54,8 +54,8 @@
         "ext-zip": "*",
         "ext-zlib": "*",
         "psr/simple-cache": "^1.0",
-        "mykola-ivashchuk-gl/complex": "*",
-        "mykola-ivashchuk-gl/matrix": "*"
+        "mykola-ivashchuk-gl/complex": "1.4.9",
+        "mykola-ivashchuk-gl/matrix": " 1.3.0"
     },
     "require-dev": {
         "tecnickcom/tcpdf": "^6.2",
